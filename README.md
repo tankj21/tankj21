@@ -18,10 +18,7 @@
 
 ### 👨‍💻 About Me
 
-* 🔭 I’m currently working on **[現在開発中のプロジェクト]**
-* 🌱 I’m currently learning **[学習中の技術]**
-* 👯 I’m looking to collaborate on **[興味のあるOSSやプロジェクト]**
-* ⚡ Fun fact: **[趣味や特技]**
+
 
 <br>
 
@@ -36,6 +33,7 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tankj21&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=777777" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankj21&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=777777" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=tankj21&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=777777" height="165" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tankj21&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=777777" height="165" alt="Top Languages" />
 </div>
