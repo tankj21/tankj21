@@ -1,58 +1,41 @@
-<h1 align="center">Hi there, I'm tankj21 👋</h1>
-
-<h3 align="center">テクノロジーとモノづくりに情熱を持つデベロッパーです🚀</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+tankj21+👋;Creative+Developer;Always+learning+new+things!" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://twitter.com/tank_0621">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)" />
   </a>
-  <a href="https://YOUR_PORTFOLIO_LINK">
+  <a href="https://zenn.dev/YOUR_ZENN">
+    <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn" />
+  </a>
+  <a href="https://tankj21.gituhub.io">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+### 👨‍💻 About Me
 
-- 🔭 現在は **[現在開発中のプロジェクト名や分野]** に取り組んでいます。
-- 🌱 現在 **[現在学習中の言語やフレームワーク]** を学習中です。
-- 👯 **[興味のある分野やOSS]** でのコラボレーションを歓迎します！
-- 💬 **[得意な言語や技術]** についてなら何でも聞いてください。
-- ⚡ 趣味: **[趣味や特技（例：コーヒーを淹れること、読書など）]**
+* 🔭 I’m currently working on **[現在開発中のプロジェクト]**
+* 🌱 I’m currently learning **[学習中の技術]**
+* 👯 I’m looking to collaborate on **[興味のあるOSSやプロジェクト]**
+* ⚡ Fun fact: **[趣味や特技]**
 
----
+<br>
 
-## 💻 Tech Stack
+### 🛠️ Tech Stack
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,python,docker,git,linux&perline=10" alt="Tech Stack" />
+  </a>
+</div>
 
-**Languages:**
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+<br>
 
-**Frameworks & Libraries:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-
-**Tools & Others:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tankj21&show_icons=true&theme=radium&hide_border=true" alt="tankj21's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tankj21&theme=radium&hide_border=true" alt="tankj21's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankj21&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
-</p>
-
----
-<p align="center"><i>Thank you for visiting my profile!</i></p>
+### 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tankj21&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=777777" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankj21&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=777777" height="165" alt="Top Languages" />
+</div>
